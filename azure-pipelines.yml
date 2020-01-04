@@ -2,4 +2,5 @@
   inputs:
     script: |
       javac sum.java
+      
       java sum
